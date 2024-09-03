@@ -15,6 +15,8 @@
 #include <redfse.h>
 #include <redconf.h>
 
+#include "fx_api.h"
+
 /* USART descriptor for printf */
 UART_HandleTypeDef huart2;
 
